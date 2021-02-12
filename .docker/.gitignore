@@ -1,2 +1,5 @@
 mysql/*
 redis/*
+
+!mysql/.gitkeep
+!redis/.gitkeep

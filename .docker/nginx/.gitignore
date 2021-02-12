@@ -1,2 +1,5 @@
 sites-available/*
 log/*
+
+!sites-available/.gitkeep
+!log/.gitkeep
